@@ -12,7 +12,7 @@
  
  🔭 I’m **a junior web developer**
  
- 🌱 I’m currently learning **Codeigniter, laravel**
+ 🌱 I’m currently learning **Codeigniter, laravel, React**
 
 ⚡ Fun fact **if you forget to do something, it reminds you! Just be careful, though; you might end up getting scolded by your own framework! 😄**
 
